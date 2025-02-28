@@ -2,10 +2,11 @@
 🚀 Project Overview: I developed a responsive To-Do List web application using HTML, CSS, and JavaScript. This application allows users to add, edit, and remove tasks seamlessly. The intuitive and visually appealing design ensures a smooth user experience on both desktop and mobile devices.
 
 <h1>🛠️ Technologies Used:</h1>
-HTML: Structure and content of the application
+<p>HTML: Structure and content of the application
 
 CSS: Styling with custom fonts, colors, and responsive design
-JavaScript: Dynamic functionality for adding, editing, and removing tasks
+
+JavaScript: Dynamic functionality for adding, editing, and removing tasks</p>
 
 <h1>📜 Features:</h1>
 Add Tasks: Users can add tasks with a simple form.
