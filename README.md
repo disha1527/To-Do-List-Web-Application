@@ -9,7 +9,7 @@ CSS: Styling with custom fonts, colors, and responsive design
 JavaScript: Dynamic functionality for adding, editing, and removing tasks</p>
 
 <h1>📜 Features:</h1>
-Add Tasks: Users can add tasks with a simple form.
+<p>Add Tasks: Users can add tasks with a simple form.
 
 Edit Tasks: Inline editing functionality allows users to update tasks easily.
 
@@ -17,13 +17,14 @@ Remove Tasks: Users can remove tasks with a single click.
 
 Responsive Design: Ensures a smooth experience on all devices.
 
-Custom Styling: Uses a custom font and background design for a unique look.
+Custom Styling: Uses a custom font and background design for a unique look.</p>
 
 <h1>🌟 Key Highlights:</h1>
-Font Awesome Icons: Integrated Font Awesome icons for better visual representation.
+<p>Font Awesome Icons: Integrated Font Awesome icons for better visual representation.
 
 User-Friendly Interface: Simple and intuitive design for ease of use.
-State Management: Efficiently manages tasks using an array for state storage.
+
+State Management: Efficiently manages tasks using an array for state storage.</p>
 
 Live Demo: https://disha1527.github.io/To-Do-List-Web-Application/
 
