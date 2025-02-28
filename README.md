@@ -5,7 +5,6 @@
 HTML: Structure and content of the application
 
 CSS: Styling with custom fonts, colors, and responsive design
-
 JavaScript: Dynamic functionality for adding, editing, and removing tasks
 
 <h1>📜 Features:</h1>
@@ -23,7 +22,8 @@ Custom Styling: Uses a custom font and background design for a unique look.
 Font Awesome Icons: Integrated Font Awesome icons for better visual representation.
 
 User-Friendly Interface: Simple and intuitive design for ease of use.
-
 State Management: Efficiently manages tasks using an array for state storage.
+
+Live Demo: https://disha1527.github.io/To-Do-List-Web-Application/
 
 ![screencapture-file-C-Users-DELL-Desktop-To-Do-list-index-html-2025-02-28-09_42_21](https://github.com/user-attachments/assets/4d1e3e92-2e47-4dc4-9ae5-f5a5b958361f)
